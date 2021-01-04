@@ -1,4 +1,4 @@
-# temporal-occupancy-PIAP
+# temporal-occupancy-PIARP
 Temporal occupancy dataset for fish species from the Upper Paraná River floodplain 
 
 Dataset used in the analysis of Granzotti et al. 2021 (Freshwater Biology)
